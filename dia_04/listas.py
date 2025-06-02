@@ -5,3 +5,4 @@ print(idades)
 
 # teste de alteração direto do github
 # alterado no vscode
+nome = "Mycael"
